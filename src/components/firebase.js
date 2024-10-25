@@ -8,12 +8,12 @@ import { getFirestore } from "firebase/firestore";  // Import Firestore
 
 // Firebase configuration from your Firebase console
 const firebaseConfig = {
-  apiKey: Your api key,
+  apiKey: Your api key
   authDomain: "ecowaste-5efd7.firebaseapp.com",
   projectId: "ecowaste-5efd7",
   storageBucket: "ecowaste-5efd7.appspot.com",
   messagingSenderId: "611861820815",
-  appId: Your api id,
+  appId: your api id
   measurementId: "G-BR0C5ZJBWY"
 };
 

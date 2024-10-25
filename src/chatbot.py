@@ -13,7 +13,7 @@ def chat(user_input):
 
     model = GenerativeModel('gemini-1.5-flash')
     
-    genai.configure(api_key=Your API key)
+    genai.configure(api_key=your api key)
     response = model.generate_content(user_input)
     return response.text
 
